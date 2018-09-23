@@ -1,0 +1,1 @@
+bool putdata (double indep [10], double dep [10], int i); 
